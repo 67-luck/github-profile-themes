@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'dist'
-LOGIN = os.environ.get('GH_LOGIN', 'Theater-ahyeon')
+LOGIN = os.environ.get('GH_LOGIN', '67-luck')
 
 
 def api(*args):
