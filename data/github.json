@@ -1,10 +1,38 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-10T03:09:55.633968+00:00",
+  "generated_at": "2026-11-11T08:21:51.043654+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 57,
+  "contributions": 67,
   "merged_prs": [
+    {
+      "number": 5805,
+      "title": "fix(server): serialize structured prompt arguments before middleware",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/5805",
+      "mergedAt": "2026-11-10T19:28:51Z",
+      "repository": {
+        "nameWithOwner": "PrefectHQ/fastmcp",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "PrefectHQ"
+        }
+      }
+    },
+    {
+      "number": 5803,
+      "title": "fix(prompts): resolve postponed annotations when rendering",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/5803",
+      "mergedAt": "2026-11-10T08:16:46Z",
+      "repository": {
+        "nameWithOwner": "PrefectHQ/fastmcp",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "PrefectHQ"
+        }
+      }
+    },
     {
       "number": 7006,
       "title": "feat(batch): add browser review for persisted results",
@@ -49,6 +77,7 @@
     }
   ],
   "projects": {
+    "PrefectHQ/fastmcp": 2,
     "bytedance/deer-flow": 1,
     "openclaw/openclaw": 2
   }

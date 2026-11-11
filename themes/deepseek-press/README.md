@@ -37,6 +37,7 @@
 
 **Selected merged PRs**
 
+- **PrefectHQ/fastmcp** — [fix(server): serialize structured prompt arguments before middleware #5805](https://github.com/PrefectHQ/fastmcp/pull/5805)
 - **openclaw/openclaw** — [improve(ollama): cover literal fenced command replies #166561](https://github.com/openclaw/openclaw/pull/166561)
 - **bytedance/deer-flow** — [feat(batch): add browser review for persisted results #7006](https://github.com/bytedance/deer-flow/pull/7006)
 
