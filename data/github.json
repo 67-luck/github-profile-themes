@@ -1,10 +1,24 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-11T08:21:51.043654+00:00",
+  "generated_at": "2026-11-12T08:49:01.676193+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 67,
+  "contributions": 73,
   "merged_prs": [
+    {
+      "number": 5806,
+      "title": "fix(context): allow background task logging without a session",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/5806",
+      "mergedAt": "2026-11-11T18:55:37Z",
+      "repository": {
+        "nameWithOwner": "PrefectHQ/fastmcp",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "PrefectHQ"
+        }
+      }
+    },
     {
       "number": 5805,
       "title": "fix(server): serialize structured prompt arguments before middleware",
@@ -77,7 +91,7 @@
     }
   ],
   "projects": {
-    "PrefectHQ/fastmcp": 2,
+    "PrefectHQ/fastmcp": 3,
     "bytedance/deer-flow": 1,
     "openclaw/openclaw": 2
   }
