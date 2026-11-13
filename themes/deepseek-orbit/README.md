@@ -37,7 +37,7 @@
 
 **Selected merged PRs**
 
-- **PrefectHQ/fastmcp** — [fix(context): allow background task logging without a session #5806](https://github.com/PrefectHQ/fastmcp/pull/5806)
+- **PrefectHQ/fastmcp** — [fix(skills): follow empty pagination cursors when listing skills #6473](https://github.com/PrefectHQ/fastmcp/pull/6473)
 - **openclaw/openclaw** — [improve(ollama): cover literal fenced command replies #166561](https://github.com/openclaw/openclaw/pull/166561)
 - **bytedance/deer-flow** — [feat(batch): add browser review for persisted results #7006](https://github.com/bytedance/deer-flow/pull/7006)
 

@@ -1,10 +1,24 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-12T08:49:01.676193+00:00",
+  "generated_at": "2026-11-13T08:43:50.159712+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 73,
+  "contributions": 106,
   "merged_prs": [
+    {
+      "number": 6473,
+      "title": "fix(skills): follow empty pagination cursors when listing skills",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/6473",
+      "mergedAt": "2026-11-13T05:03:53Z",
+      "repository": {
+        "nameWithOwner": "PrefectHQ/fastmcp",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "PrefectHQ"
+        }
+      }
+    },
     {
       "number": 5806,
       "title": "fix(context): allow background task logging without a session",
@@ -91,7 +105,7 @@
     }
   ],
   "projects": {
-    "PrefectHQ/fastmcp": 3,
+    "PrefectHQ/fastmcp": 4,
     "bytedance/deer-flow": 1,
     "openclaw/openclaw": 2
   }
