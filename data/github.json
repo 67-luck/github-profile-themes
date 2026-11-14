@@ -1,10 +1,38 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-13T08:43:50.159712+00:00",
+  "generated_at": "2026-11-14T07:59:18.896693+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 106,
+  "contributions": 117,
   "merged_prs": [
+    {
+      "number": 8210,
+      "title": "fix(sandbox): match local grep lines without their terminator",
+      "url": "https://github.com/bytedance/deer-flow/pull/8210",
+      "mergedAt": "2026-11-13T15:17:18Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 13731,
+      "title": "fix: treat {% set x %}...{% endset %} block assignments as template-assigned variables",
+      "url": "https://github.com/deepset-ai/haystack/pull/13731",
+      "mergedAt": "2026-11-13T11:50:02Z",
+      "repository": {
+        "nameWithOwner": "deepset-ai/haystack",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "deepset-ai"
+        }
+      }
+    },
     {
       "number": 6473,
       "title": "fix(skills): follow empty pagination cursors when listing skills",
@@ -105,8 +133,9 @@
     }
   ],
   "projects": {
+    "bytedance/deer-flow": 2,
+    "deepset-ai/haystack": 1,
     "PrefectHQ/fastmcp": 4,
-    "bytedance/deer-flow": 1,
     "openclaw/openclaw": 2
   }
 }

@@ -38,8 +38,8 @@
 **Selected merged PRs**
 
 - **PrefectHQ/fastmcp** — [fix(skills): follow empty pagination cursors when listing skills #6473](https://github.com/PrefectHQ/fastmcp/pull/6473)
+- **bytedance/deer-flow** — [fix(sandbox): match local grep lines without their terminator #8210](https://github.com/bytedance/deer-flow/pull/8210)
 - **openclaw/openclaw** — [improve(ollama): cover literal fenced command replies #166561](https://github.com/openclaw/openclaw/pull/166561)
-- **bytedance/deer-flow** — [feat(batch): add browser review for persisted results #7006](https://github.com/bytedance/deer-flow/pull/7006)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/67-luck/github-profile-themes/main/themes/phoebe-notebook/assets/footer-dark.svg">
