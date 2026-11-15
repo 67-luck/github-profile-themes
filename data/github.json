@@ -1,10 +1,52 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-14T07:59:18.896693+00:00",
+  "generated_at": "2026-11-15T08:25:50.857174+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 117,
+  "contributions": 120,
   "merged_prs": [
+    {
+      "number": 8209,
+      "title": "fix(channels): deliver each presented file once, in presentation order",
+      "url": "https://github.com/bytedance/deer-flow/pull/8209",
+      "mergedAt": "2026-11-14T09:08:29Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 12394,
+      "title": "fix(providers): preserve empty Vertex Claude and Llama completions",
+      "url": "https://github.com/promptfoo/promptfoo/pull/12394",
+      "mergedAt": "2026-11-14T08:16:07Z",
+      "repository": {
+        "nameWithOwner": "promptfoo/promptfoo",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "promptfoo"
+        }
+      }
+    },
+    {
+      "number": 12400,
+      "title": "fix(providers): normalize trailing Google AI Studio base URL slashes",
+      "url": "https://github.com/promptfoo/promptfoo/pull/12400",
+      "mergedAt": "2026-11-14T08:16:01Z",
+      "repository": {
+        "nameWithOwner": "promptfoo/promptfoo",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "promptfoo"
+        }
+      }
+    },
     {
       "number": 8210,
       "title": "fix(sandbox): match local grep lines without their terminator",
@@ -133,7 +175,8 @@
     }
   ],
   "projects": {
-    "bytedance/deer-flow": 2,
+    "bytedance/deer-flow": 3,
+    "promptfoo/promptfoo": 2,
     "deepset-ai/haystack": 1,
     "PrefectHQ/fastmcp": 4,
     "openclaw/openclaw": 2

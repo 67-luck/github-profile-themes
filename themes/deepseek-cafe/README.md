@@ -38,7 +38,7 @@
 **Selected merged PRs**
 
 - **PrefectHQ/fastmcp** — [fix(skills): follow empty pagination cursors when listing skills #6473](https://github.com/PrefectHQ/fastmcp/pull/6473)
-- **bytedance/deer-flow** — [fix(sandbox): match local grep lines without their terminator #8210](https://github.com/bytedance/deer-flow/pull/8210)
+- **bytedance/deer-flow** — [fix(channels): deliver each presented file once, in presentation order #8209](https://github.com/bytedance/deer-flow/pull/8209)
 - **openclaw/openclaw** — [improve(ollama): cover literal fenced command replies #166561](https://github.com/openclaw/openclaw/pull/166561)
 
 <picture>
