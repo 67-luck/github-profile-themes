@@ -1,10 +1,52 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-16T08:33:50.044561+00:00",
+  "generated_at": "2026-11-17T09:43:55.021948+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 120,
+  "contributions": 122,
   "merged_prs": [
+    {
+      "number": 4021,
+      "title": "fix(formatter): forward DataBlock extra params to MiniMax video blocks",
+      "url": "https://github.com/agentscope-ai/agentscope/pull/4021",
+      "mergedAt": "2026-11-17T07:55:25Z",
+      "repository": {
+        "nameWithOwner": "agentscope-ai/agentscope",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "agentscope-ai"
+        }
+      }
+    },
+    {
+      "number": 6471,
+      "title": "fix(resources): coerce template parameters from resolved hints",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/6471",
+      "mergedAt": "2026-11-17T06:41:39Z",
+      "repository": {
+        "nameWithOwner": "PrefectHQ/fastmcp",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "PrefectHQ"
+        }
+      }
+    },
+    {
+      "number": 16762,
+      "title": "fix(backend/admin): report memory graph truncation only when something was cut",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT/pull/16762",
+      "mergedAt": "2026-11-16T11:43:23Z",
+      "repository": {
+        "nameWithOwner": "Significant-Gravitas/AutoGPT",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "Significant-Gravitas"
+        }
+      }
+    },
     {
       "number": 8209,
       "title": "fix(channels): deliver each presented file once, in presentation order",
@@ -175,10 +217,12 @@
     }
   ],
   "projects": {
+    "agentscope-ai/agentscope": 1,
+    "PrefectHQ/fastmcp": 5,
+    "Significant-Gravitas/AutoGPT": 1,
     "bytedance/deer-flow": 3,
     "promptfoo/promptfoo": 2,
     "deepset-ai/haystack": 1,
-    "PrefectHQ/fastmcp": 4,
     "openclaw/openclaw": 2
   }
 }

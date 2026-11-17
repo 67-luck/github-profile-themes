@@ -37,7 +37,7 @@
 
 **Selected merged PRs**
 
-- **PrefectHQ/fastmcp** — [fix(skills): follow empty pagination cursors when listing skills #6473](https://github.com/PrefectHQ/fastmcp/pull/6473)
+- **PrefectHQ/fastmcp** — [fix(resources): coerce template parameters from resolved hints #6471](https://github.com/PrefectHQ/fastmcp/pull/6471)
 - **bytedance/deer-flow** — [fix(channels): deliver each presented file once, in presentation order #8209](https://github.com/bytedance/deer-flow/pull/8209)
 - **openclaw/openclaw** — [improve(ollama): cover literal fenced command replies #166561](https://github.com/openclaw/openclaw/pull/166561)
 
