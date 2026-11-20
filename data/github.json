@@ -1,10 +1,24 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-19T09:27:50.002499+00:00",
+  "generated_at": "2026-11-20T09:08:39.465254+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 129,
+  "contributions": 157,
   "merged_prs": [
+    {
+      "number": 4154,
+      "title": "fix(a2a): build the request before consuming observed messages",
+      "url": "https://github.com/agentscope-ai/agentscope/pull/4154",
+      "mergedAt": "2026-11-20T04:22:47Z",
+      "repository": {
+        "nameWithOwner": "agentscope-ai/agentscope",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "agentscope-ai"
+        }
+      }
+    },
     {
       "number": 4021,
       "title": "fix(formatter): forward DataBlock extra params to MiniMax video blocks",
@@ -217,7 +231,7 @@
     }
   ],
   "projects": {
-    "agentscope-ai/agentscope": 1,
+    "agentscope-ai/agentscope": 2,
     "PrefectHQ/fastmcp": 5,
     "Significant-Gravitas/AutoGPT": 1,
     "bytedance/deer-flow": 3,

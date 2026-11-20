@@ -39,7 +39,7 @@
 
 - **PrefectHQ/fastmcp** — [fix(resources): coerce template parameters from resolved hints #6471](https://github.com/PrefectHQ/fastmcp/pull/6471)
 - **bytedance/deer-flow** — [fix(channels): deliver each presented file once, in presentation order #8209](https://github.com/bytedance/deer-flow/pull/8209)
-- **openclaw/openclaw** — [improve(ollama): cover literal fenced command replies #166561](https://github.com/openclaw/openclaw/pull/166561)
+- **agentscope-ai/agentscope** — [fix(a2a): build the request before consuming observed messages #4154](https://github.com/agentscope-ai/agentscope/pull/4154)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/67-luck/github-profile-themes/main/themes/phoebe-cathedral/assets/footer-dark.svg">
