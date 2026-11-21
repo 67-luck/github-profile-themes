@@ -1,10 +1,52 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-20T09:08:39.465254+00:00",
+  "generated_at": "2026-11-21T08:44:25.727378+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 157,
+  "contributions": 160,
   "merged_prs": [
+    {
+      "number": 4515,
+      "title": "fix(export): export each undirected relation once",
+      "url": "https://github.com/HKUDS/LightRAG/pull/4515",
+      "mergedAt": "2026-11-21T07:50:32Z",
+      "repository": {
+        "nameWithOwner": "HKUDS/LightRAG",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "HKUDS"
+        }
+      }
+    },
+    {
+      "number": 13743,
+      "title": "fix: map image/bmp to Pillow's BMP format instead of DIB",
+      "url": "https://github.com/deepset-ai/haystack/pull/13743",
+      "mergedAt": "2026-11-20T15:05:22Z",
+      "repository": {
+        "nameWithOwner": "deepset-ai/haystack",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "deepset-ai"
+        }
+      }
+    },
+    {
+      "number": 1614,
+      "title": "Merge, group and order aliased columns in cluster results, closes #1613",
+      "url": "https://github.com/neuml/txtai/pull/1614",
+      "mergedAt": "2026-11-20T14:56:37Z",
+      "repository": {
+        "nameWithOwner": "neuml/txtai",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "neuml"
+        }
+      }
+    },
     {
       "number": 4154,
       "title": "fix(a2a): build the request before consuming observed messages",
@@ -231,12 +273,14 @@
     }
   ],
   "projects": {
+    "HKUDS/LightRAG": 1,
+    "deepset-ai/haystack": 2,
+    "neuml/txtai": 1,
     "agentscope-ai/agentscope": 2,
     "PrefectHQ/fastmcp": 5,
     "Significant-Gravitas/AutoGPT": 1,
     "bytedance/deer-flow": 3,
     "promptfoo/promptfoo": 2,
-    "deepset-ai/haystack": 1,
     "openclaw/openclaw": 2
   }
 }
