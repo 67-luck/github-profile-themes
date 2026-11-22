@@ -1,10 +1,24 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-21T08:44:25.727378+00:00",
+  "generated_at": "2026-11-22T08:47:04.297143+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 160,
+  "contributions": 161,
   "merged_prs": [
+    {
+      "number": 8398,
+      "title": "fix(runtime): page thread history from the before cursor",
+      "url": "https://github.com/bytedance/deer-flow/pull/8398",
+      "mergedAt": "2026-11-22T02:23:24Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
     {
       "number": 4515,
       "title": "fix(export): export each undirected relation once",
@@ -273,13 +287,13 @@
     }
   ],
   "projects": {
+    "bytedance/deer-flow": 4,
     "HKUDS/LightRAG": 1,
     "deepset-ai/haystack": 2,
     "neuml/txtai": 1,
     "agentscope-ai/agentscope": 2,
     "PrefectHQ/fastmcp": 5,
     "Significant-Gravitas/AutoGPT": 1,
-    "bytedance/deer-flow": 3,
     "promptfoo/promptfoo": 2,
     "openclaw/openclaw": 2
   }
