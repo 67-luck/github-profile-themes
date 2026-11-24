@@ -1,10 +1,52 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-23T09:44:32.395499+00:00",
+  "generated_at": "2026-11-24T11:35:29.272053+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 161,
+  "contributions": 166,
   "merged_prs": [
+    {
+      "number": 5497,
+      "title": "fix(odf): leave hidden ODT text out of the default export",
+      "url": "https://github.com/docling-project/docling/pull/5497",
+      "mergedAt": "2026-11-24T09:55:04Z",
+      "repository": {
+        "nameWithOwner": "docling-project/docling",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "docling-project"
+        }
+      }
+    },
+    {
+      "number": 5496,
+      "title": "fix(odf): keep footnotes out of the text of ODT table cells",
+      "url": "https://github.com/docling-project/docling/pull/5496",
+      "mergedAt": "2026-11-24T09:43:30Z",
+      "repository": {
+        "nameWithOwner": "docling-project/docling",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "docling-project"
+        }
+      }
+    },
+    {
+      "number": 4168,
+      "title": "fix(tool): pass positional-only arguments of FunctionTool by position",
+      "url": "https://github.com/agentscope-ai/agentscope/pull/4168",
+      "mergedAt": "2026-11-23T11:37:09Z",
+      "repository": {
+        "nameWithOwner": "agentscope-ai/agentscope",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "agentscope-ai"
+        }
+      }
+    },
     {
       "number": 8398,
       "title": "fix(runtime): page thread history from the before cursor",
@@ -287,11 +329,12 @@
     }
   ],
   "projects": {
+    "docling-project/docling": 2,
+    "agentscope-ai/agentscope": 3,
     "bytedance/deer-flow": 4,
     "HKUDS/LightRAG": 1,
     "deepset-ai/haystack": 2,
     "neuml/txtai": 1,
-    "agentscope-ai/agentscope": 2,
     "PrefectHQ/fastmcp": 5,
     "Significant-Gravitas/AutoGPT": 1,
     "promptfoo/promptfoo": 2,

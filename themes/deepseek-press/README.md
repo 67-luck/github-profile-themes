@@ -39,7 +39,7 @@
 
 - **PrefectHQ/fastmcp** — [fix(resources): coerce template parameters from resolved hints #6471](https://github.com/PrefectHQ/fastmcp/pull/6471)
 - **bytedance/deer-flow** — [fix(runtime): page thread history from the before cursor #8398](https://github.com/bytedance/deer-flow/pull/8398)
-- **agentscope-ai/agentscope** — [fix(a2a): build the request before consuming observed messages #4154](https://github.com/agentscope-ai/agentscope/pull/4154)
+- **agentscope-ai/agentscope** — [fix(tool): pass positional-only arguments of FunctionTool by position #4168](https://github.com/agentscope-ai/agentscope/pull/4168)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/67-luck/github-profile-themes/main/themes/deepseek-press/assets/footer-dark.svg">
