@@ -1,10 +1,24 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-24T11:35:29.272053+00:00",
+  "generated_at": "2026-11-25T10:26:34.490300+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 166,
+  "contributions": 167,
   "merged_prs": [
+    {
+      "number": 8670,
+      "title": "fix(llm): send a leading developer message as the system prompt on Anthropic, Google and AWS",
+      "url": "https://github.com/livekit/agents/pull/8670",
+      "mergedAt": "2026-11-25T03:29:08Z",
+      "repository": {
+        "nameWithOwner": "livekit/agents",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "livekit"
+        }
+      }
+    },
     {
       "number": 5497,
       "title": "fix(odf): leave hidden ODT text out of the default export",
@@ -329,6 +343,7 @@
     }
   ],
   "projects": {
+    "livekit/agents": 1,
     "docling-project/docling": 2,
     "agentscope-ai/agentscope": 3,
     "bytedance/deer-flow": 4,
