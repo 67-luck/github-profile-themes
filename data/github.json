@@ -1,10 +1,24 @@
 {
   "login": "67-luck",
-  "generated_at": "2026-11-25T10:26:34.490300+00:00",
+  "generated_at": "2026-11-26T10:00:58.832532+00:00",
   "repositories": 4,
   "stars": 1,
-  "contributions": 167,
+  "contributions": 168,
   "merged_prs": [
+    {
+      "number": 3994,
+      "title": "fix(formatter): drop an empty system prompt in AnthropicMultiAgentFormatter",
+      "url": "https://github.com/agentscope-ai/agentscope/pull/3994",
+      "mergedAt": "2026-11-26T03:46:57Z",
+      "repository": {
+        "nameWithOwner": "agentscope-ai/agentscope",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "agentscope-ai"
+        }
+      }
+    },
     {
       "number": 8670,
       "title": "fix(llm): send a leading developer message as the system prompt on Anthropic, Google and AWS",
@@ -343,9 +357,9 @@
     }
   ],
   "projects": {
+    "agentscope-ai/agentscope": 4,
     "livekit/agents": 1,
     "docling-project/docling": 2,
-    "agentscope-ai/agentscope": 3,
     "bytedance/deer-flow": 4,
     "HKUDS/LightRAG": 1,
     "deepset-ai/haystack": 2,
